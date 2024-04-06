@@ -5,7 +5,7 @@ Forked from jaden/totp-generator
 Has added dark mode, bigger copy button, and togglable hidden secret key
 
 
-![](![image](https://github.com/eastoid/improved-totp-generator/assets/82464360/bb36ad63-0054-4691-a0ac-cec8e41de929))
+![](![image](image.png))
 
 [Demo](https://totp.danhersam.com/)
 
