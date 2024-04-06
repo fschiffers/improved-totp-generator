@@ -4,10 +4,10 @@ Forked from jaden/totp-generator
 
 Has added dark mode, bigger copy button, and togglable hidden secret key
 
+[Demo (Original version)](https://totp.danhersam.com/)
 
-![](![image](image.png))
+![](image.png)
 
-[Demo](https://totp.danhersam.com/)
 
 This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser in case you ever lose access to your phone.
 
